@@ -4,6 +4,6 @@ This is course material for the Master in Quantum Information Science and Techno
 
 * Latest note: [IntroTN_note_v1.pdf](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/IntroTN_note_v1.pdf)
 * Installation guide: [Julia-ITensor-Installation.pdf](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/Julia-ITensor-Installation.pdf)
-* Exercise on MPS:
+* Exercise on MPS: [ex_MPS.ipynb](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/ex_MPS.ipynb)
 * Exercise on DMRG:
 * Exercise on TEBD/TDVP:
