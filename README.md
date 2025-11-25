@@ -7,3 +7,4 @@ This is course material for the Master in Quantum Information Science and Techno
 * Exercise on MPS: [ex_MPS.ipynb](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/ex_MPS.ipynb)
 * Exercise on DMRG: [ex_DMRG.ipynb](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/ex_DMRG.ipynb)
 * Exercise on TEBD/TDVP: [ex_time_evolve.ipynb](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/ex_time_evolve.ipynb)
+* Assignment: [Assignment.pdf](https://github.com/wyqian1027/Introduction-to-Quantum-Simulation-Part-II-Tensor-Networks/blob/main/Assignment.pdf)
